@@ -2,6 +2,8 @@
 
 Este projeto é uma API RESTful desenvolvida com **Spring Boot 3** e **MongoDB** para o gerenciamento de tarefas (CRUD). O objetivo é permitir criar, listar, atualizar e remover tarefas de forma simples e eficiente.
 
+<hr>
+
 ## 🚀 Tecnologias Utilizadas
 
 * **Java 17** (ou superior)
@@ -10,6 +12,8 @@ Este projeto é uma API RESTful desenvolvida com **Spring Boot 3** e **MongoDB**
 * **Spring Data MongoDB** (integração com banco NoSQL)
 * **MongoDB Atlas** (Banco de dados na nuvem)
 * **Maven** (Gerenciamento de dependências)
+
+<hr>
 
 ## ⚙️ Configuração e Execução
 
@@ -47,10 +51,11 @@ src/main/java/com/projeto/gerenciadortarefas
 ── repository   # Interface de comunicação com MongoDB
 ── GerenciadorTarefasApplication.java # Classe principal
 
-
+<hr>
 
 ## 👤 Autor
 Desenvolvido por [Fernanda Rocha].
+
 
 
 
