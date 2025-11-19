@@ -25,7 +25,7 @@ cd NOME-DO-REPOSITORIO
 
 
 ### 2. Executar a aplicação
-
+```bash
 No terminal (dentro da pasta do projeto), execute:
 
 * Linux/Mac:
@@ -53,5 +53,6 @@ src/main/java/com/projeto/gerenciadortarefas
 
 ### 👤 Autor
 Desenvolvido por [Fernanda Rocha].
+
 
 
