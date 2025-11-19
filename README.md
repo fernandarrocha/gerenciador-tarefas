@@ -54,7 +54,8 @@ src/main/java/com/projeto/gerenciadortarefas
 <hr>
 
 ## 👤 Autor
-Desenvolvido por [Fernanda Rocha].
+Desenvolvido por Fernanda Rocha.
+
 
 
 
