@@ -29,6 +29,8 @@ cd NOME-DO-REPOSITORIO
 ```bash
 No terminal (dentro da pasta do projeto), execute:
 
+<hr>
+
 * Linux/Mac:
 ```bash
 Bash
@@ -54,6 +56,7 @@ src/main/java/com/projeto/gerenciadortarefas
 
 ### 👤 Autor
 Desenvolvido por [Fernanda Rocha].
+
 
 
 
