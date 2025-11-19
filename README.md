@@ -19,7 +19,7 @@ Este projeto é uma API RESTful desenvolvida com **Spring Boot 3** e **MongoDB**
 * Uma conta no MongoDB Atlas (ou MongoDB local).
 
 ### 1. Clonar o repositório
-```bash
+
 git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
 cd NOME-DO-REPOSITORIO
 
@@ -54,6 +54,7 @@ src/main/java/com/projeto/gerenciadortarefas
 
 ### 👤 Autor
 Desenvolvido por [Fernanda Rocha].
+
 
 
 
