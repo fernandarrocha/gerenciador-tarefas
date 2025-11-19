@@ -40,7 +40,7 @@ mvnw spring-boot:run
 
 
 
-### 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 src/main/java/com/projeto/gerenciadortarefas
 │
 ├── controller   # Camada de controle (Endpoints REST)
@@ -50,8 +50,9 @@ src/main/java/com/projeto/gerenciadortarefas
 
 
 
-### 👤 Autor
+## 👤 Autor
 Desenvolvido por [Fernanda Rocha].
+
 
 
 
