@@ -23,6 +23,7 @@ Este projeto é uma API RESTful desenvolvida com **Spring Boot 3** e **MongoDB**
 git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
 cd NOME-DO-REPOSITORIO
 
+---
 
 ### 2. Executar a aplicação
 ```bash
@@ -53,6 +54,7 @@ src/main/java/com/projeto/gerenciadortarefas
 
 ### 👤 Autor
 Desenvolvido por [Fernanda Rocha].
+
 
 
 
