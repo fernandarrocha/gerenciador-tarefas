@@ -38,20 +38,20 @@ No terminal (dentro da pasta do projeto), execute:
 
 mvnw spring-boot:run
 
-
+<hr>
 
 ## 📂 Estrutura do Projeto
 src/main/java/com/projeto/gerenciadortarefas
-│
-├── controller   # Camada de controle (Endpoints REST)
-├── model        # Modelo de dados (Entidade Tarefa)
-├── repository   # Interface de comunicação com MongoDB
-└── GerenciadorTarefasApplication.java # Classe principal
+── controller   # Camada de controle (Endpoints REST)
+── model        # Modelo de dados (Entidade Tarefa)
+── repository   # Interface de comunicação com MongoDB
+── GerenciadorTarefasApplication.java # Classe principal
 
 
 
 ## 👤 Autor
 Desenvolvido por [Fernanda Rocha].
+
 
 
 
