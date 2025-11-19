@@ -20,22 +20,19 @@ Este projeto é uma API RESTful desenvolvida com **Spring Boot 3** e **MongoDB**
 
 ### 1. Clonar o repositório
 
-git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
-cd NOME-DO-REPOSITORIO
+git clone [https://github.com/fernandarrocha/gerenciador-tarefas](https://github.com/fernandarrocha/gerenciador-tarefas)
+cd gerenciador-tarefas
 
 ---
 
 ### 2. Executar a aplicação
-```bash
+
 No terminal (dentro da pasta do projeto), execute:
 
-<hr>
-
 * Linux/Mac:
-```bash
+
 Bash
 ./mvnw spring-boot:run
-
 
 * Windows:
 ```bash
@@ -56,6 +53,7 @@ src/main/java/com/projeto/gerenciadortarefas
 
 ### 👤 Autor
 Desenvolvido por [Fernanda Rocha].
+
 
 
 
